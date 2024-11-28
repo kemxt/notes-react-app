@@ -1,5 +1,9 @@
+body {
+  min-height: 100%;
+}
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -40,3 +44,4 @@
 
   padding:50px;
 }
+

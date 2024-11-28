@@ -1,0 +1,22 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00c8ff; /* Dark background color */
+    color: black; /* White text */
+    padding: 10px 20px; /* Spacing around the header */
+  }
+  
+
+  .nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav ul li {
+    margin: 0 10px;
+  }
+  

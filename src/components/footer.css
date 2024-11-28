@@ -1,0 +1,8 @@
+.footer{
+    text-align: center;
+    background-color: aqua;
+    min-height: 100px;
+    bottom: 0;
+    position:absolute;
+    width: 100vw;
+}
